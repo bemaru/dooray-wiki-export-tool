@@ -1,0 +1,6 @@
+{
+    "token": "{YOUR_DOORAY_API_TOKEN}",   
+    "base_url": "https://api.dooray.com/wiki/v1",
+    "domain": "https://{YOUR_SUBDOMAIN}.dooray.com",
+    "page_limit": -1
+}
