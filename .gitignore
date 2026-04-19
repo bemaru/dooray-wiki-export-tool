@@ -1,0 +1,6 @@
+logs/
+backups/
+downloads/
+__pycache__/
+*.pyc
+*.log
